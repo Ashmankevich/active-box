@@ -1,6 +1,5 @@
 # Landing
 
-The simple timer that counts down the seconds
 ## [view demo](https://ashmankevich.github.io/webpage-active-box/)
 
 ### Technologies:
