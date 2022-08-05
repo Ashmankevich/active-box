@@ -1,4 +1,4 @@
-# Landing
+# Landing Page
 
 ## [view demo](https://ashmankevich.github.io/webpage-active-box/)
 
